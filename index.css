@@ -1,0 +1,69 @@
+.form
+{
+  margin:100px;
+  position:absolute;
+  color:black;
+  padding:30px;
+  font-family:Verdana;
+  background-color:white;
+  left:680px;
+  border-radius:15px;
+
+
+}
+.wel label{
+  font-family:Verdana;
+  font-style: ;
+  margin-top:0px;
+  margin-left:80px;
+  font-size:1.2em;
+}
+
+.input label{
+  display:block;
+  margin-top:10px;
+  font-size:1.1em;
+}
+.input input{
+  width:100%;
+  border-color:rgba(0,0,0,0.2);
+  border-radius:10px;
+  box-sizing: border-box;
+  padding-left:13px;
+  margin:5px 0px 0px 4px;
+  font-family:sans-serif;
+  font-size:1.2em;
+  size:220px;
+}
+input:focus
+{
+  background-color:rgba(0,0,0,0.2);
+}
+.radio input{
+  scale-up(2);
+}
+button{
+  font-family:Verdana;
+  font-size:1.1em;
+  width:100%;
+  border-radius:12px;
+  border-color:	#E60023;
+  color:white;
+  background-color:	#E60023;
+  display: block;
+  margin-top:20px;
+  text-align: center;
+  margin-left:0px;
+}
+.col
+{
+  background-color:#0074e8;
+  border-color:#0074e8;
+}
+.logg
+{
+  margin-left:200px;
+  position: absolute;
+  left:260px;
+  width:100%;
+}
